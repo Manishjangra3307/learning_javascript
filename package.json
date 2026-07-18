@@ -1,0 +1,24 @@
+{
+  "name": "learning_javascript",
+  "version": "1.0.0",
+  "description": "here using this repository I am learning javascript.",
+  "keywords": [
+    "learn",
+    "javascript"
+  ],
+  "homepage": "https://github.com/Manishjangra3307/learning_javascript#readme",
+  "bugs": {
+    "url": "https://github.com/Manishjangra3307/learning_javascript/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manishjangra3307/learning_javascript.git"
+  },
+  "license": "ISC",
+  "author": "MANISH JANGRA",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
